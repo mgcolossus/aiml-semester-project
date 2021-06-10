@@ -1,0 +1,9 @@
+keras==2.5.0
+tensorflow==2.5.0
+numpy==1.19.5
+PIL==7.1.2
+shutil
+os
+json
+sklearn==0.22.2.post1
+opencv-python==4.1.2
